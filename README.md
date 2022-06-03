@@ -1,8 +1,22 @@
 # Hello Hallym
-## 1. Introdution
+## 1. 소개(인적 사항)
 ---
 
-* Name : Lee Myeong Kyu(이명규)   
-* Age : 25   
-* Email : mglee4111@naver.com    
-* Major : 스마트IOT    
+* **이름** : Lee Myeong Kyu(이명규)   
+* **나이** : 25   
+* **Email** : mglee4111@naver.com    
+* **전공** : 스마트IOT
+* **취미** : 음악 듣기, 요리, 스노우보드, 웨이크보드, 독서 등등
+---
+## 2. 진로
+
+나는 다른 학우들과는 다르게 이런 프로그램밍이 나와 맞지 않거든   
+다들 이 gib를 꾸미는데 자신이 했던 프로그램 및 취득 자격증 등등 많을 걸 소개하더라고    
+그래서 난 남들과는 다른 나의 꿈을 소개할 거야   
+
+### 2-1) 바리스타
+
+<img src=cafe.jpg height=200 width=200>
+나는 나의 카페를 차리는 게 꿈이야
+
+
